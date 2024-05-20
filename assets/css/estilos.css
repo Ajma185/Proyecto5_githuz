@@ -4,8 +4,13 @@ body {
 
 /* Hero Section */
 
+#h1, .my-5 , .my-4 {
+  color:black; 
+  margin-right: auto;
+}
+
 #Hero-Section {
-  background-image: url("../img/bg-hero.jpg");
+  background-image: url("../img/PicsArt_08-01-10.02.53.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: left;
